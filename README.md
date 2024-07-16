@@ -1,4 +1,6 @@
-<h1> Fazer umprograma para ler os dados de N produtos (N fornecido pelo usuário). Ao final,
+<h1> Exercício sobre Herança e Poliformismo </h1>
+
+<h3> Fazer umprograma para ler os dados de N produtos (N fornecido pelo usuário). Ao final,
  mostrar a etiqueta de preço de cada produto na
  mesma ordem em que foram digitados. <br>
  Todo produto possui nome e preço. Produtos
@@ -10,5 +12,9 @@
  importados, a taxa e alfândega deve ser
  acrescentadaaopreçofinaldoproduto.
  Favor implementar o programa conforme
- projetoaolado.</h1>
-<img src="C:\Users\pedro\OneDrive\Pictures\Imagens\Capturas de tela\Captura de tela 2024-07-15 220919.png">
+ projetoaolado.</h3>
+ 
+![Captura de tela 2024-07-15 220919](https://github.com/user-attachments/assets/7bfc8b44-b29d-45a8-b0b7-6ab144ca8f4e)
+
+<footer>Pedro Aquino - Desenvolvedor Back-End</footer>
+
